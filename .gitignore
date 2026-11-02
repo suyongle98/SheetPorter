@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+输出/
+rules/*.json
+!rules/.gitkeep
+*.exe
+*.zip
+.env
+.env.*
+*.log
+.audit/
